@@ -30,15 +30,7 @@ public class ContactRestController {
     @Autowired
     private ContactMapper contactMapper;
 
-    @GetMapping(value = "/test")
-    public ResponseEntity<Contact> getCreateContact() {
-//        UriComponentsBuilder u
-        String user1 = restTemplate.getForObject("https://api.github.com/users/r", String.class);
-        GitHubUserDtoPassFromClient user = restTemplate.getForObject("https://api.github.com/users/r", GitHubUserDtoPassFromClient.class);
-        System.out.println(user);
-        System.out.println(user1);
-        return null;
-    }
+
 
     @PutMapping(value = "/create")
     public ResponseEntity<Contact> getCreateContact(@RequestBody ContactDtoPassFromClient passFromClient) {

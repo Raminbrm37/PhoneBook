@@ -13,7 +13,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2bf08d5e-5d1d-4b62-b59a-99f968dde14f" name="Default Changelist" comment="adding contactEntity" />
+    <list default="true" id="2bf08d5e-5d1d-4b62-b59a-99f968dde14f" name="Default Changelist" comment="adding contactEntity">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -29,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/phonebook" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="MavenImportPreferences">
@@ -101,6 +104,7 @@
       <workItem from="1621766152411" duration="160000" />
       <workItem from="1621766339328" duration="458000" />
       <workItem from="1621766829654" duration="28000" />
+      <workItem from="1621766872624" duration="2139000" />
     </task>
     <task id="LOCAL-00001" summary="adding baseEntity to project">
       <created>1621758031116</created>
@@ -116,7 +120,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621758302910</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="First Commit">
+      <created>1621766948753</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1621766948753</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Adding project">
+      <created>1621767368729</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1621767368729</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -141,7 +159,9 @@
     </ignored-roots>
     <MESSAGE value="adding baseEntity to project" />
     <MESSAGE value="adding contactEntity" />
-    <option name="LAST_COMMIT_MESSAGE" value="adding contactEntity" />
+    <MESSAGE value="First Commit" />
+    <MESSAGE value="Adding project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1621535916138">
@@ -204,10 +224,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="513" y="233" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1621766602572" />
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1621766628680">
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1621767376455">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1621766628680" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1621767376455" />
     <state x="-51" y="0" key="new project wizard" timestamp="1621766689919">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
