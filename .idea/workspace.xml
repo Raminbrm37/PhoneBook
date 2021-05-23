@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2bf08d5e-5d1d-4b62-b59a-99f968dde14f" name="Default Changelist" comment="adding contactEntity" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" show_ignored="true" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/phonebook" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Users\RaMin\.m2\wrapper\dists\apache-maven-3.8.1-bin\2l5mhf2pq2clrde7f7qp1rdt5m\apache-maven-3.8.1" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1skdHXyyIt2nM3qsGRrgAJDyKOX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.asredanesh.phonebook.dto" />
+      <recent name="com.asredanesh.phonebook.util.exception" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.asredanesh.phonebook.model" />
+      <recent name="com.asredanesh.phonebook.dto" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="PhonebookApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="asredanesh" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.asredanesh.phonebook.PhonebookApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\RaMin\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2bf08d5e-5d1d-4b62-b59a-99f968dde14f" name="Default Changelist" comment="" />
+      <created>1621420481876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621420481876</updated>
+      <workItem from="1621420486159" duration="11136000" />
+      <workItem from="1621444414238" duration="1049000" />
+      <workItem from="1621446684341" duration="251000" />
+      <workItem from="1621447103193" duration="17283000" />
+      <workItem from="1621521138763" duration="558000" />
+      <workItem from="1621521918058" duration="12602000" />
+      <workItem from="1621755115388" duration="2453000" />
+      <workItem from="1621757720442" duration="208000" />
+      <workItem from="1621757958340" duration="597000" />
+      <workItem from="1621758581683" duration="492000" />
+      <workItem from="1621765871284" duration="258000" />
+      <workItem from="1621766152411" duration="160000" />
+      <workItem from="1621766339328" duration="458000" />
+      <workItem from="1621766829654" duration="28000" />
+    </task>
+    <task id="LOCAL-00001" summary="adding baseEntity to project">
+      <created>1621758031116</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1621758031116</updated>
+    </task>
+    <task id="LOCAL-00002" summary="adding contactEntity">
+      <created>1621758302910</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1621758302910</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/phonebook" />
+    </ignored-roots>
+    <MESSAGE value="adding baseEntity to project" />
+    <MESSAGE value="adding contactEntity" />
+    <option name="LAST_COMMIT_MESSAGE" value="adding contactEntity" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1621535916138">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1621535916138" />
+    <state x="436" y="18" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1621535886781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="436" y="18" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1621535886781" />
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621426356766">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="110" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1621426356766" />
+    <state x="463" y="105" key="FileChooserDialogImpl" timestamp="1621757876596">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="105" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1621757876596" />
+    <state x="559" y="265" key="Github.ShareDialog" timestamp="1621422292550">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="559" y="265" key="Github.ShareDialog/0.0.1366.728@0.0.1366.728" timestamp="1621422292550" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1621543315021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621543315021" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1621543315020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1621543315020" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1621543315020">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1621543315020" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1621543315021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1621543315021" />
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom" timestamp="1621543315022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1621543315022" />
+    <state width="1323" height="2" key="GridCell.Tab.1.center" timestamp="1621543315021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1621543315021" />
+    <state width="1323" height="2" key="GridCell.Tab.1.left" timestamp="1621543315021">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1621543315021" />
+    <state width="1323" height="2" key="GridCell.Tab.1.right" timestamp="1621543315022">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1621543315022" />
+    <state x="184" y="8" key="SettingsEditor" timestamp="1621766795491">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="8" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1621766795491" />
+    <state x="513" y="233" key="VCS.EditChangelistDialog" timestamp="1621766602572">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="513" y="233" key="VCS.EditChangelistDialog/0.0.1366.728@0.0.1366.728" timestamp="1621766602572" />
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2" timestamp="1621766628680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="92" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1621766628680" />
+    <state x="-51" y="0" key="new project wizard" timestamp="1621766689919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="-51" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1621766689919" />
+  </component>
+</project>
